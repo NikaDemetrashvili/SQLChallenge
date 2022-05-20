@@ -1,5 +1,6 @@
 -- Case Study #1: Danny's Diner
 
+
 CREATE TABLE sales(
     customer_id VARCHAR(1),
     order_date DATE,
